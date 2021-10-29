@@ -4,7 +4,7 @@
 
 ### To Do List
 
-- [ ] Find Tid Hold
+- [X] Find Tid Hold
 - [ ] Find Os
 - [ ] Oplev Os
 - [ ] Om Os
